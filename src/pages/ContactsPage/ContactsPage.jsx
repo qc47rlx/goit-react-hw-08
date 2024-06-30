@@ -11,7 +11,7 @@ import css from './ContactPage.module.css'
 import PageTitle from "../../components/PageTitle/PageTitle";
 import ModalWindow from "../../components/ModalWindow/ModalWindow";
 
-export default function ContactPage() {
+export default function ContactsPage() {
   const dispatch = useDispatch();
   const isLoading = useSelector(selectLoading);
   const isError = useSelector(selectError);
