@@ -7,7 +7,7 @@ import { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import ErrorMessage from "../../components/ErrorMessage/ErrorMessage";
 import Loader from "../../components/Loader/Loader";
-import css from './ContactPage.module.css'
+import css from './ContactsPage.module.css'
 import PageTitle from "../../components/PageTitle/PageTitle";
 import ModalWindow from "../../components/ModalWindow/ModalWindow";
 
