@@ -6,6 +6,6 @@
     flex-wrap: wrap;
     list-style: none;
     background-color: #4a494a;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
 }
