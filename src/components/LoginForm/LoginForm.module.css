@@ -6,14 +6,13 @@
     margin-right: auto;
     border-radius: 5px;
     width: 300px;
-    background-color: #000000;
-    border: 1px solid #000000;
+    background-color: #510808d2;
+        border: 1px solid #000000;
 }
 
 .fialdStyle {
     display: block;
     padding: 10px;
-
 }
 
 .field {
@@ -37,10 +36,16 @@
 .btn:focus,
 .btn:active {
     background-color: #505050;
-        color: white;
+    color: white;
 }
 
 .err {
     background-color: red;
 
+}
+
+.label {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 16px;
 }

@@ -5,4 +5,7 @@
     padding: 10px;
     flex-wrap: wrap;
     list-style: none;
+    background-color: #e9d8ff;
+    justify-content: center;
+    align-items: center;
 }
